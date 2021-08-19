@@ -1,5 +1,7 @@
 # Qiskit Advocate Mentorship Program
 
+***This edition of the program has concluded. Please see the repository for the [Fall '21 program](https://github.com/qiskit-community/mentorship-program-fall-21) for updates.***
+
 **NEW! Check mid-term checkpoint presentations here**
 
 - [Eastern hemisphere session](https://www.youtube.com/watch?v=_wZyLV9pTxI&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=25)
